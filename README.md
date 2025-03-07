@@ -27,4 +27,4 @@ my_world is a 3D word editing software that allows users to create and modify 3D
 
 Enjoy editing with my_world!
 
-Project developed as part of the B-MUL-200 module by PamplemomM and AntothP.
+Project developed as part of the B-MUL-200 module by PamplemomM with the help of  AntothP.
